@@ -13,6 +13,12 @@ Implementation of Twin Delayed DDPG (TD3) for robotic door opening task using Ro
 - Experience replay buffer with tuple state handling
 - Model checkpointing system
 
+## Video of it working
+
+
+https://github.com/user-attachments/assets/4e2c910c-6881-48ca-bf3a-0fa3ffef9356
+
+
 ## Installation
 ```bash
 # Clone repository
@@ -33,3 +39,7 @@ mjpython main.py
 ## For visualizing
 # On macOS (requires mjpython wrapper)
 mjpython test.py
+
+
+
+
